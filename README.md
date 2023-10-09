@@ -1,2 +1,3 @@
+[Portfolio Homepage](https://github.com/devsujatha/portfolio-web-page/blob/main/index.html)
 # Debugging
-practicising my debugging skills.
+practicing my debugging skills.
